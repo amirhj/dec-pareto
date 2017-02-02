@@ -1,0 +1,598 @@
+{
+    "variables": [
+        {
+            "domain": {
+                "max": 24, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g7"
+        }, 
+        {
+            "domain": {
+                "max": 22, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g6"
+        }, 
+        {
+            "domain": {
+                "max": 24, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g5"
+        }, 
+        {
+            "domain": {
+                "max": 25, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g4"
+        }, 
+        {
+            "domain": {
+                "max": 25, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g3"
+        }, 
+        {
+            "domain": {
+                "max": 20, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g2"
+        }, 
+        {
+            "domain": {
+                "max": 25, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g1"
+        }, 
+        {
+            "domain": {
+                "max": 25, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g0"
+        }, 
+        {
+            "domain": {
+                "max": 22, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g9"
+        }, 
+        {
+            "domain": {
+                "max": 22, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g8"
+        }, 
+        {
+            "domain": {
+                "max": 15, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g19"
+        }, 
+        {
+            "domain": {
+                "max": 15, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g18"
+        }, 
+        {
+            "domain": {
+                "max": 25, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g17"
+        }, 
+        {
+            "domain": {
+                "max": 25, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g16"
+        }, 
+        {
+            "domain": {
+                "max": 24, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g15"
+        }, 
+        {
+            "domain": {
+                "max": 24, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g14"
+        }, 
+        {
+            "domain": {
+                "max": 13, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g13"
+        }, 
+        {
+            "domain": {
+                "max": 24, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g12"
+        }, 
+        {
+            "domain": {
+                "max": 24, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g11"
+        }, 
+        {
+            "domain": {
+                "max": 25, 
+                "step": 1, 
+                "min": 0
+            }, 
+            "name": "g10"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t8"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t9"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t6"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t7"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t4"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t5"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t2"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t3"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t0"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t1"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t14"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t15"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t16"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t17"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t10"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t11"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t12"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t13"
+        }, 
+        {
+            "domain": {
+                "max": 100, 
+                "step": 1, 
+                "min": -100
+            }, 
+            "name": "t18"
+        }
+    ], 
+    "functions": [
+        {
+            "variables": [
+                "g18", 
+                "t17"
+            ], 
+            "name": "v18"
+        }, 
+        {
+            "variables": [
+                "g18"
+            ], 
+            "name": "v18u"
+        }, 
+        {
+            "variables": [
+                "g19", 
+                "t17", 
+                "t5"
+            ], 
+            "name": "v19"
+        }, 
+        {
+            "variables": [
+                "g19"
+            ], 
+            "name": "v19u"
+        }, 
+        {
+            "variables": [
+                "g12", 
+                "t12", 
+                "t7"
+            ], 
+            "name": "v12"
+        }, 
+        {
+            "variables": [
+                "g12"
+            ], 
+            "name": "v12u"
+        }, 
+        {
+            "variables": [
+                "g13", 
+                "t14", 
+                "t13", 
+                "t11"
+            ], 
+            "name": "v13"
+        }, 
+        {
+            "variables": [
+                "g13"
+            ], 
+            "name": "v13u"
+        }, 
+        {
+            "variables": [
+                "g10", 
+                "t10"
+            ], 
+            "name": "v10"
+        }, 
+        {
+            "variables": [
+                "g10"
+            ], 
+            "name": "v10u"
+        }, 
+        {
+            "variables": [
+                "g11", 
+                "t11", 
+                "t12"
+            ], 
+            "name": "v11"
+        }, 
+        {
+            "variables": [
+                "g11"
+            ], 
+            "name": "v11u"
+        }, 
+        {
+            "variables": [
+                "g16", 
+                "t16", 
+                "t15"
+            ], 
+            "name": "v16"
+        }, 
+        {
+            "variables": [
+                "g16"
+            ], 
+            "name": "v16u"
+        }, 
+        {
+            "variables": [
+                "g17", 
+                "t16"
+            ], 
+            "name": "v17"
+        }, 
+        {
+            "variables": [
+                "g17"
+            ], 
+            "name": "v17u"
+        }, 
+        {
+            "variables": [
+                "g14", 
+                "t14"
+            ], 
+            "name": "v14"
+        }, 
+        {
+            "variables": [
+                "g14"
+            ], 
+            "name": "v14u"
+        }, 
+        {
+            "variables": [
+                "g15", 
+                "t15", 
+                "t9"
+            ], 
+            "name": "v15"
+        }, 
+        {
+            "variables": [
+                "g15"
+            ], 
+            "name": "v15u"
+        }, 
+        {
+            "variables": [
+                "g0", 
+                "t2", 
+                "t3", 
+                "t0", 
+                "t1"
+            ], 
+            "name": "v0"
+        }, 
+        {
+            "variables": [
+                "g0"
+            ], 
+            "name": "v0u"
+        }, 
+        {
+            "variables": [
+                "g1", 
+                "t0"
+            ], 
+            "name": "v1"
+        }, 
+        {
+            "variables": [
+                "g1"
+            ], 
+            "name": "v1u"
+        }, 
+        {
+            "variables": [
+                "g2", 
+                "t1"
+            ], 
+            "name": "v2"
+        }, 
+        {
+            "variables": [
+                "g2"
+            ], 
+            "name": "v2u"
+        }, 
+        {
+            "variables": [
+                "g3", 
+                "t2"
+            ], 
+            "name": "v3"
+        }, 
+        {
+            "variables": [
+                "g3"
+            ], 
+            "name": "v3u"
+        }, 
+        {
+            "variables": [
+                "g4", 
+                "t4", 
+                "t3"
+            ], 
+            "name": "v4"
+        }, 
+        {
+            "variables": [
+                "g4"
+            ], 
+            "name": "v4u"
+        }, 
+        {
+            "variables": [
+                "g5", 
+                "t6", 
+                "t7", 
+                "t5", 
+                "t4"
+            ], 
+            "name": "v5"
+        }, 
+        {
+            "variables": [
+                "g5"
+            ], 
+            "name": "v5u"
+        }, 
+        {
+            "variables": [
+                "g6", 
+                "t18", 
+                "t8"
+            ], 
+            "name": "v6"
+        }, 
+        {
+            "variables": [
+                "g6"
+            ], 
+            "name": "v6u"
+        }, 
+        {
+            "variables": [
+                "g7", 
+                "t8", 
+                "t6"
+            ], 
+            "name": "v7"
+        }, 
+        {
+            "variables": [
+                "g7"
+            ], 
+            "name": "v7u"
+        }, 
+        {
+            "variables": [
+                "g8", 
+                "t9", 
+                "t18"
+            ], 
+            "name": "v8"
+        }, 
+        {
+            "variables": [
+                "g8"
+            ], 
+            "name": "v8u"
+        }, 
+        {
+            "variables": [
+                "g9", 
+                "t10", 
+                "t13"
+            ], 
+            "name": "v9"
+        }, 
+        {
+            "variables": [
+                "g9"
+            ], 
+            "name": "v9u"
+        }
+    ],
+    "constants": [],
+    "constraints": []
+}

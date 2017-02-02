@@ -1,0 +1,89 @@
+{
+	"variables": [
+		{
+			"name": "v0",
+			"domain": {
+				"min": -1,
+				"max": 1,
+				"step": 0.2
+			}
+		},
+		{
+			"name": "v1",
+			"domain": {
+				"min": -1,
+				"max": 1,
+				"step": 0.2
+			}
+		},
+		{
+			"name": "v2",
+			"domain": {
+				"min": -1,
+				"max": 1,
+				"step": 0.2
+			}
+		},
+		{
+			"name": "v3",
+			"domain": {
+				"min": -1,
+				"max": 1,
+				"step": 0.2
+			}
+		},
+		{
+			"name": "v4",
+			"domain": {
+				"min": -1,
+				"max": 1,
+				"step": 0.2
+			}
+		},
+		{
+			"name": "v5",
+			"domain": {
+				"min": -1,
+				"max": 1,
+				"step": 0.2
+			}
+		},
+		{
+			"name": "v6",
+			"domain": {
+				"min": -1,
+				"max": 1,
+				"step": 0.2
+			}
+		},
+		{
+			"name": "v7",
+			"domain": {
+				"min": -1,
+				"max": 1,
+				"step": 0.2
+			}
+		}
+	],
+	"functions": [
+		{
+			"name": "f1",
+			"variables": ["v0", "v1", "v2", "v3"]
+		},
+		{
+			"name": "f2",
+			"variables": ["v2", "v3", "v4", "v5"]
+		},
+		{
+			"name": "f3",
+			"variables": ["v4", "v5", "v6", "v7"]
+		}
+	],
+	"constraints": [],
+	"constants": [
+		{
+			"name": "n",
+			"value": 100
+		}
+	]
+}
